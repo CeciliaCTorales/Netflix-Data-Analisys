@@ -18,4 +18,4 @@ Este proyecto muestra un análisis exploratorio de datos (EDA) utilizando **Pyth
 ## 📊 Dataset
 El dataset utilizado es `netflix_titles.csv`, disponible públicamente en Kaggle.
 
-## 📁 Estructura
+
